@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "ml_service/venv/Scripts/python.exe",
+  "python.analysis.extraPaths": [
+    "ml_service"
+  ]
+}
